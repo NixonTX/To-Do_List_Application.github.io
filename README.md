@@ -1,3 +1,5 @@
+This To-Do List App built with Vue.js and Tailwind CSS. It lets users create, edit, delete, categorize, and schedule tasks efficiently with a user-friendly interface.
+
 # To-Do_List_Application.github.io
 
 This template should help get you started developing with Vue 3 in Vite.
